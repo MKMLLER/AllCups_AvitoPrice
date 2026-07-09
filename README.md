@@ -1,5 +1,5 @@
 # AllCups_AvitoPrice. Задача с тренировочного этапа всероссийской олимпиады по ИИ 
-# Задача в соревновании: https://cups.online/ru/workareas/vserosii_2026/1553/3096
+# (Задача в соревновании)[https://cups.online/ru/workareas/vserosii_2026/1553/3096]
 
 Суть решения: 
 
